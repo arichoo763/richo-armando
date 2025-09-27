@@ -29,7 +29,7 @@ export default function Contact() {
                         className='border-2 p-4 rounded-2xl '
                         placeholder="Masukan No Telepon..."
                     />
-                    <Link className='' href={'https://wa.me/628123456789'}>
+                    <Link className='' href={'https://wa.me/6281226045297'}>
                         <Button variant={'primary'} className='h-12 w-42 cursor-grab'>
                             Send Me
                         </Button>
